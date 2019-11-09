@@ -1,0 +1,76 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "cup and cookies",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./img/product1.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Christmas dinner",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./img/product2.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "candles",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./img/product3.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "christmas bear",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./img/product4.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "winter balls",
+          "price": 88.99,
+          "image": { "fields": { "file": { "url": "./img/product5.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Christmas balls",
+          "price": 32.99,
+          "image": { "fields": { "file": { "url": "./img/product6.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Christmas tree",
+          "price": 45.99,
+          "image": { "fields": { "file": { "url": "./img/product7.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Santa Claus",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./img/product8.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "9" },
+        "fields": {
+          "title": "santa claus doll",
+          "price": 33.99,
+          "image": { "fields": { "file": { "url": "./img/product9.jpg" } } }
+        }
+      }
+    ]
+  }
